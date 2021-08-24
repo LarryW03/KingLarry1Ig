@@ -8,3 +8,5 @@ This is the rough draft of full stack web application what DACC App Dev 2 senior
 
 Fromt end developemy will done in HTML/CSS/Javascipts
 Back End Develpment C#
+
+Peasants I hate them with an strong passion
